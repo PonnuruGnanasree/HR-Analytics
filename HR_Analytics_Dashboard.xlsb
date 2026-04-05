@@ -1,1 +1,55 @@
+---
+
+# 📊 Excel Dashboard – HR Analytics
+
+## 📌 Overview
+
+This dashboard focuses on analyzing **HR data using Excel**.
+
+It provides insights into **employee attrition, workforce distribution, salary trends, and overall employee performance**, helping HR teams make informed decisions.
+
+---
+
+## 🔍 Key Analysis
+
+* Total employees and attrition rate
+* Department-wise employee distribution
+* Attrition analysis by job role and gender
+* Salary and age group insights
+* Work-life balance impact on attrition
+
+---
+
+## 📈 Dashboard Features
+
+* Interactive filters for **Department, Job Role, and Gender**
+* KPI cards for quick insights (Employees, Attrition Rate, Avg Salary, Avg Age)
+* Visual charts for workforce and attrition trends
+* Clean and business-friendly layout
+
+---
+
+## 📷 Dashboard Preview
+
+*(Refer to the Excel dashboard image in this folder)*
+
+---
+
+## 💡 Key Learnings
+
+* Data cleaning and preprocessing in Excel
+* Building dynamic and interactive dashboards
+* Using Pivot Tables, Charts, and Slicers
+* Converting HR data into actionable insights
+
+---
+
+✅ This version is now:
+
+* Fully aligned with your **HR dashboard screenshot**
+* Professional for **GitHub + resume**
+* Clear for **recruiters/interviewers**
+
+---
+
 
