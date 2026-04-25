@@ -108,7 +108,7 @@ HR-Analytics-Project/
 * Data Cleaning & Transformation
 * SQL Query Writing & KPI Extraction
 * Dashboard Design (Power BI & Tableau)
-* Data Visualization & Storytelling
+<!-- * Data Visualization & Storytelling -->
 * Business Insight Generation
 
 ---
