@@ -113,12 +113,6 @@ HR-Analytics-Project/
 
 ---
 
-## 📸 Dashboard Preview
-
-*(Add screenshots of your Excel, Power BI, and Tableau dashboards here)*
-
----
-
 ## 📊 Sample SQL KPIs
 
 ```sql
